@@ -1,6 +1,6 @@
-# Kaggle-Collections
+# Competitions-Collections
 
-Personal collection-git for kaggle competitions.
+Personal collection-git for ML/DL competitions, mainly including competition items from Kaggle or Tianchi.
 
 -----
 0. Basis:
